@@ -22,3 +22,6 @@ Edgewood High School’s red and white inspired palette, with charcoal text and 
 Tony Harris’s current program lead role and DEVCOM/APG employment were supplied by the owner. His Edgewood mentoring participation and Morgan State electrical engineering background are documented in the 2020 feature: https://knowledge-online-defense-communities.knowledgeowl.com/help/tony-a-stem-growth-success-story . Public Army reporting identifies his professional role as systems engineer: https://www.dvidshub.net/news/printable/486640 . The profile uses the photograph from the published mentoring story, with a visible source link.
 
 Tony’s LinkedIn profile was confirmed by the program owner: https://www.linkedin.com/in/tony-harris-a2a29271
+
+## Program alumni
+The Program Alumni section features Tony Harris’s documented journey from Edgewood mentee to Morgan State graduate and mentor. Additional alumni can be added when their names and biographies are supplied. No graduation year or other unverified alumni details are assumed.
