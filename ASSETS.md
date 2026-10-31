@@ -12,3 +12,6 @@ Local asset: `dist/assets/tony-harris.jpeg`. Original photograph downloaded unch
 Source article: https://knowledge-online-defense-communities.knowledgeowl.com/help/tony-a-stem-growth-success-story
 Image URL: https://dyzz9obi78pm5.cloudfront.net/app/image/id/5de83b2e8e121cf04b175ab2/n/k4bdknew.jpeg
 Visible source attribution appears below the image.
+
+## Chester Nwachukwu photograph
+`dist/assets/chester-nwachukwu.png`: portrait supplied by the program owner for Chester’s alumni card. Original image preserved.
