@@ -25,3 +25,5 @@ Tony’s LinkedIn profile was confirmed by the program owner: https://www.linked
 
 ## Program alumni
 The Program Alumni section features Tony Harris’s documented journey from Edgewood mentee to Morgan State graduate and mentor. Additional alumni can be added when their names and biographies are supplied. No graduation year or other unverified alumni details are assumed.
+
+Chester Nwachukwu: alumnus and Edgewood Class of 2008 supplied by the owner. Confirmed LinkedIn: https://www.linkedin.com/in/chesternwachukwu . Morgan State electrical engineering degree source: https://www.prlog.org/12400133-chester-nwachukwu-joins-sneakerthirst-llc-management-team.html .
