@@ -1,0 +1,7 @@
+.openai/*.tar.gz
+*.tar.gz
+desktop-preview.png
+mobile-preview.png
+check-site.cjs
+
+team-preview.png
