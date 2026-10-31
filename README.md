@@ -13,6 +13,8 @@ Run `python3 -m http.server 4173 --directory dist` and open http://localhost:417
 
 Program name supplied by the owner. Contact information, application process, schedule, and actual program photographs remain to be supplied. The website does not collect personal data or claim to submit applications. No fabricated testimonials, outcomes, affiliations, or events are included.
 
+Upcoming session dates (November 17 and December 17, 2026, 7:45–9:15 AM) were supplied by program lead Tony Harris via email on October 23, 2026.
+
 Design reference: https://100bmoh.org/ (layout clarity and content hierarchy; original copy, visual identity, and implementation).
 
 ## Color palette
