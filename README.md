@@ -23,6 +23,8 @@ Tony Harris’s current program lead role and DEVCOM/APG employment were supplie
 
 Tony’s LinkedIn profile was confirmed by the program owner: https://www.linkedin.com/in/tony-harris-a2a29271
 
+Chuck Hunter's role as Coordinator of the Academy of Finance at Edgewood High School is documented in the May 2025 HCPS press release and in his remarks to the Harford County Council; his sponsorship of the mentoring program and accounting/finance teaching role were supplied by the program owner.
+
 ## Program alumni
 The Program Alumni section features Tony Harris’s documented journey from Edgewood mentee to Morgan State graduate and mentor. Additional alumni can be added when their names and biographies are supplied. No graduation year or other unverified alumni details are assumed.
 
